@@ -1,8 +1,30 @@
-- 👋 Hi, I’m @arthurmang
-- 👀 I’m interested in ... football and anything fast... F1, MotoGP,etc. 
-- 🌱 I’m currently trying to master Web Development. I am a Full Stack Developer at CoinCorner and my team's UX Specialist. I currently head up the latest front end projects, so essentially act as the Lead Front-End Developer.
+👋 Hi, I’m @arthurmang
+💻 Full Stack Developer with a strong focus on Frontend
+🚀 Recently worked at CoinCorner, contributing to 10+ projects including fintech and cryptocurrency products
+🎯 Experienced in building and leading user-facing features, with a focus on clean UI, performance, and UX
+⚙️ Tech I’ve worked with: React, TypeScript, .NET (C#), SQL, Azure
+🌱 Currently focused on sharpening my frontend skills and building high-quality web experiences
+⚡ Outside of tech: football, F1, MotoGP, and anything fast
 
-<!---
-arthurmang/arthurmang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚧 Projects & Experience
+💼 CoinCorner (Full Stack Developer)
+
+Worked on 10+ projects across fintech and cryptocurrency products, including:
+
+eMoney Accounts
+Bitcoin Rewards Accounts
+Bitcoin-Backed Loans
+Vault Accounts
+
+My role:
+
+Led frontend development for key user-facing features
+Collaborated closely with design to deliver consistent UX
+Contributed to backend systems using .NET (C#) and SQL
+
+🧪 Personal / Public Projects
+
+Websites:
+themf.agency
+igaminglicensing.io
+marcussimpson23.com
