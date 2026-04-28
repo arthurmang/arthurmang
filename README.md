@@ -24,6 +24,8 @@ Contributed to backend systems using .NET (C#) and SQL
 
 🧪 Personal / Public Projects
 
+Currently building a financial self-help app using Flutter and Dart. The app's main is to help people track their bills & finances all from one place.
+
 Websites:
 themf.agency
 igaminglicensing.io
