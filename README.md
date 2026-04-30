@@ -11,6 +11,7 @@
 
 Worked on 10+ projects across fintech and cryptocurrency products, including:
 
+CoinCorner Cryptocurrency Exchange
 eMoney Accounts
 Bitcoin Rewards Accounts
 Bitcoin-Backed Loans
